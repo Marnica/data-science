@@ -71,6 +71,8 @@
 
 Перейти к курсу [**ML-101**](https://github.com/Data-Learn/data-science/blob/main/ML-101%20Guide.md).
 
+
+
 Курс Getting Started with Machine Learning and Data Science (ML-101) - курс от Анастасии Риццо о теории Машинного Обучения и Data Science, с понятной теорией и практическими кейсами из реальной жизни.
 
 Курс включает в себя 3 модуля:
@@ -84,5 +86,3 @@
 Информация о платформе Data Learn: https://datalearn.ru
 
 Регистрация на курс ML-101: https://datalearn.ru/kurs-po-ml-ds
-
-
